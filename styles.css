@@ -1,5 +1,8 @@
 
 
 h1{
-  background-color : green;
+  background: rgba(125, 125, 125, 0.1);
+  height: 3em;
+  padding: 30px;
+  margin: 50px;
 }
