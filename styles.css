@@ -1,5 +1,8 @@
 /* CSS Styles */
 
-h1{
-  background : rgba(155, 155, 155, 0.2); 
+
+
+p {
+  background-color : green;
+  font-family: verdana, serif;
 }
